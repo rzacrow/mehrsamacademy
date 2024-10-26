@@ -1,0 +1,15 @@
+accounts/migrations
+accounts/__pycache__
+accounts/__init__.py
+blog/migrations
+blog/__pycache__
+blog/__init__.py
+ma/migrations
+ma/__pycache__
+ma/__init__.py
+main/migrations
+main/__pycache__
+main/__init__.py
+
+env/
+.env
