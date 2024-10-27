@@ -7,9 +7,9 @@ blog/__init__.py
 ma/migrations
 ma/__pycache__
 ma/__init__.py
-main/migrations
-main/__pycache__
-main/__init__.py
+order/migrations
+order/__pycache__
+order/__init__.py
 
 env/
 .env
